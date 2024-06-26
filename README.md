@@ -1,9 +1,6 @@
 # Picture Detection
 
-<video width="600" controls>
-  <source src="demo/sample_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo Video](https://github.com/Umang-Nayak/Picture-Detection/blob/master/demo/sample_video.mp4)
 
 ## Overview
 
@@ -15,6 +12,12 @@ Picture Detection is a project that allows users to upload images and receive de
 - Receive the description in both text and voice formats.
 - User-friendly interface for easy interaction.
 
+## Demo
+
+<video width="600" controls>
+  <source src="https://github.com/Umang-Nayak/Picture-Detection/blob/master/demo/sample_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Installation
 
